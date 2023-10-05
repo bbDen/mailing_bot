@@ -1,7 +1,7 @@
 db_params = {
-    'dbname': 'python_bot',
-    'user': 'postgres',
-    'password': '213697',
-    'host': 'localhost',
-    'port': '5432'
+    'dbname': 'your_db',
+    'user': 'your_user',
+    'password': 'your_password',
+    'host': 'your_host',
+    'port': 'your_port'
 }
